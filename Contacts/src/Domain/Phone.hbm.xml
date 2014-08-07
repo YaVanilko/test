@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                    assembly="Domain"
+                   namespace="Domain">
+  <!--
+    Класс PhoneBook связываем с таблицей Contacts.    
+  -->
+  <class name="Phone" table="Contacts" lazy="false">
+    <id name="Id" column="idContacts" type="int">
+      <generator class="native"></generator>
+    </id>
+    <property name="Value" column="Value" type="String" length="45"/>
+    <!--
+    Свойство класса abon отображаются на столбец idAbonent, который
+    связывает данный класс с классом Abonent. Связь многие-к-одному,т.е.
+    таблица Contacts может содержать много записей,ссылающихся на одну 
+    и туже запись из таблицы Abonents.
+    -->
+    <many-to-one name="abon" column="idAbonent"  not-null="true" class="Abonent"/>
+    <!--
+    Свойство класса info отображаются на столбец idTypeInfo, который
+    связывает данный класс с классом TypeInfo. Связь многие-к-одному,т.е.
+    таблица Contacts может содержать много записей,ссылающихся на одну 
+    и туже запись из таблицы TypeInfo.
+    -->
+    <many-to-one name="info" column="idTypeInfo"  not-null="true" class="TypeInfo"/>
+  </class>
+</hibernate-mapping>

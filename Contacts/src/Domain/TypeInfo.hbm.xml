@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                    assembly="Domain"
+                   namespace="Domain">
+  <!--
+    Класс TypeInfo отображаем на таблицу TypeInfo
+    -->
+  <class name="TypeInfo" table="TypeInfo" lazy="false">
+    <!--свойство класса Id связываем со
+      столбцом idTypeInfo.
+      Тип столбца "int", значение генерируется автоматически
+    -->
+    <id name="Id" column="idTypeInfo" type="int">
+      <generator class="native"></generator>
+    </id>
+    <!--св-во Name класса связываем со столбцом Name
+      Тип столбца VARCHAR(45)
+    -->
+    <property name="Name" column="Name" type="String" length="45"/>
+  </class>
+</hibernate-mapping>
