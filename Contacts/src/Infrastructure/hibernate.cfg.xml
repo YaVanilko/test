@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<hibernate-configuration
+  xmlns="urn:nhibernate-configuration-2.2">
+  <session-factory>
+    <property name="dialect">
+      NHibernate.Dialect.MsSql2012Dialect,
+      NHibernate
+    </property>
+    <property name="connection.connection_string">
+      Data Source=(LocalDB)\v11.0;AttachDbFilename=D:\GDrive\CSharpTrainee1\Contacts\db\PhoneBook.mdf;Integrated Security="True;Connect" Timeout=30
+    </property>
+  </session-factory>
+</hibernate-configuration>

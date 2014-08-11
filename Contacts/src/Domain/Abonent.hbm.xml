@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                    assembly="Domain"
+                   namespace="Domain">
+  <!--указываем имя класса, который отображаем 
+    и название,в которую таблицы.
+    Здесь (как и в др. файлах) мы спец. устанавливаем атрибут lazy="false"
+    (по умолчанию равен true),чтобы объект
+    данного класса создавался сразу. Если lazy="true",то объект
+    создается при первом обращении к нему
+    Класс Abonent отображаем на таблицу Abonents
+    -->
+  <class name="Abonent" table="Abonents" lazy="false">
+    <!--свойство класса Id связываем со
+      столбцом idAbonents.
+      Тип столбца "int", значение генерируется автоматически
+    -->
+    <id name="Id" column="idAbonents" type="int">
+      <generator class="native"></generator>
+    </id>
+    <!--св-во FIO класса связываем со столбцом FIO
+      Тип столбца VARCHAR(45)
+    -->
+    <property name="FIO" column="FIO" type="String" length="50"/>
+    <!--св-во BirthDay класса связываем со столбцом BirthDay
+      Тип столбца DATE
+    -->
+    <property name="BirthDay" column="BirthDay" type="Date"/>
+  </class>
+</hibernate-mapping>
