@@ -188,10 +188,15 @@ namespace TreeTask
 
         public virtual IList<IBaseTree<T>> Find(Comparison<T> c, IBaseTree<T> nodLink)
         {
-            IList<IBaseTree<T>> tempList = new List<IBaseTree<T>>();
+            List<IBaseTree<T>> tempList = GetAllNodes().FindAll(x => c(x.Data, Data) > 0);
 
-            GetNod(nodLink, tempList, c, this);
+            return tempList;
+        }
 
+        protected List<IBaseTree<T>> GetAllNodes()
+        {
+            List<IBaseTree<T>> tempList = new List<IBaseTree<T>>();
+            GetNod(FindRoot(this), tempList);
             return tempList;
         }
 
@@ -202,8 +207,7 @@ namespace TreeTask
 
         public IEnumerator<T> GetEnumerator()
         {
-            return FindRoot(this).GetDirectChildren().
-                Select(x => x.Data).ToList<T>().GetEnumerator();
+            return GetAllNodes().Select(x => x.Data).ToList<T>().GetEnumerator();
         }
 
         public Object Clone()
@@ -211,21 +215,16 @@ namespace TreeTask
             return (Object)this;
         }
 
-        protected void GetNod(IBaseTree<T> currentNod,
-                       IList<IBaseTree<T>> tempList,
-                       Comparison<T> c,
-                       IBaseTree<T> compareLink)
+        protected void GetNod(IBaseTree<T>  currentNod, IList<IBaseTree<T>> tempList)
         {
             for (int i = 0; i < currentNod.GetDirectChildren().Count; ++i)
             {
-                if (c(currentNod.GetDirectChildren()[i].Data, Data) > 0)
-                {
-                    tempList.Add(currentNod.GetDirectChildren()[i]);
-                }
+                tempList.Add(currentNod.GetDirectChildren()[i]);
 
-                GetNod(currentNod.GetDirectChildren()[i], tempList, c, compareLink);
+                GetNod(currentNod.GetDirectChildren()[i], tempList);
             }
         }
+
     }
 
     class Tree<T> : BaseTree<T>, ITree<T>
