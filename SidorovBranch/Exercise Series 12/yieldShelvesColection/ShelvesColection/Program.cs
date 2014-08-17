@@ -64,9 +64,10 @@ namespace ShelvesColection
         {
             return GetEnumerator();
         }
-
+        
         public IEnumerator<T> GetEnumerator()
         {
+            
             foreach (List<T> lt in elements)
             {
                 foreach (T t in lt)
