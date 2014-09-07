@@ -1,0 +1,9 @@
+C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\bin\Debug\TestForShelves.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\bin\Debug\TestForShelves.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\bin\Debug\nunit.framework.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\bin\Debug\ShelvesColection.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\bin\Debug\ShelvesColection.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\bin\Debug\nunit.framework.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\obj\Debug\TestForShelves.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\obj\Debug\TestForShelves.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\obj\Debug\TestForShelves.pdb

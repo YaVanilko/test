@@ -1,0 +1,12 @@
+c:\users\home\documents\visual studio 2013\Projects\ShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.exe.config
+c:\users\home\documents\visual studio 2013\Projects\ShelvesColection\ShelvesColection\obj\Debug\ShelvesColection.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\ShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.exe
+c:\users\home\documents\visual studio 2013\Projects\ShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.pdb
+c:\users\home\documents\visual studio 2013\Projects\ShelvesColection\ShelvesColection\obj\Debug\ShelvesColection.exe
+c:\users\home\documents\visual studio 2013\Projects\ShelvesColection\ShelvesColection\obj\Debug\ShelvesColection.pdb
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.exe.config
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\obj\Debug\ShelvesColection.exe
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\obj\Debug\ShelvesColection.pdb
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.exe
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.pdb
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\obj\Debug\ShelvesColection.csprojResolveAssemblyReference.cache

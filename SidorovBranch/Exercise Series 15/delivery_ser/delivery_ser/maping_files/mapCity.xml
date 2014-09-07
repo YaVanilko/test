@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly=" MappingTest"
+namespace=" MappingTest.Entities">
+  <class name="City" table="[City]" lazy="true">
+    <id name="id" column="id" type ="int" >
+      <generator />
+    </id>
+    <property name="city_id" column="city_id" type ="int" />
+    />
+  </class>
+</hibernate-mapping> 

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\bin\Debug\TestForShelves.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-08-13" time="16:48:58">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.6.3\bin" machine-name="HOME-PC" user="Home" user-domain="Home-pc" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\Home\Documents\Visual Studio 2013\Projects\ShelvesColection\TestForShelves\bin\Debug\TestForShelves.dll" executed="True" result="Success" success="True" time="0.133" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestForShelves" executed="True" result="Success" success="True" time="0.116" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Testing" executed="True" result="Success" success="True" time="0.113" asserts="0">
+            <results>
+              <test-case name="TestForShelves.Testing.Test1" executed="True" result="Success" success="True" time="0.100" asserts="12" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

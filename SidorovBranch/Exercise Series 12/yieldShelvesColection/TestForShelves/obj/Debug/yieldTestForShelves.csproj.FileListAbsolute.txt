@@ -1,0 +1,9 @@
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\TestForShelves\bin\Debug\TestForShelves.dll
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\TestForShelves\bin\Debug\TestForShelves.pdb
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\TestForShelves\bin\Debug\nunit.framework.dll
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\TestForShelves\bin\Debug\ShelvesColection.exe
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\TestForShelves\bin\Debug\ShelvesColection.pdb
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\TestForShelves\bin\Debug\nunit.framework.xml
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\TestForShelves\obj\Debug\yieldTestForShelves.csprojResolveAssemblyReference.cache
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\TestForShelves\obj\Debug\TestForShelves.dll
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\TestForShelves\obj\Debug\TestForShelves.pdb

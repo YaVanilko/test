@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\TestOfGame.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-08-18" time="21:47:06">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.6.3\bin" machine-name="HOME-PC" user="Home" user-domain="Home-pc" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="E:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\TestOfGame.dll" executed="True" result="Failure" success="False" time="1.670" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestOfGame" executed="True" result="Failure" success="False" time="1.633" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="MoqTest" executed="True" result="Failure" success="False" time="1.608" asserts="0">
+            <results>
+              <test-case name="TestOfGame.MoqTest.Test1" executed="True" result="Error" success="False" time="1.553" asserts="0">
+                <failure>
+                  <message><![CDATA[System.TypeInitializationException : Инициализатор типа "Moq.Mock`1" выдал исключение.
+  ----> System.TypeInitializationException : Инициализатор типа "Moq.Proxy.CastleProxyFactory" выдал исключение.
+  ----> System.IO.FileNotFoundException : Не удалось загрузить файл или сборку "Castle.Core, Version=2.5.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc" либо одну из их зависимостей. Не удается найти указанный файл.]]></message>
+                  <stack-trace><![CDATA[в Moq.Mock`1.<InitializeInstance>b__0()
+в Moq.PexProtector.Invoke(Action action)
+в Moq.Mock`1.InitializeInstance()
+в Moq.Mock`1.OnGetObject()
+в Moq.Mock`1.get_Object()
+в TestOfGame.MoqTest.Test1() в e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\MoqTest.cs:строка 27
+--TypeInitializationException
+в Moq.Proxy.CastleProxyFactory..ctor()
+в Moq.Mock`1..cctor()
+--FileNotFoundException
+в Moq.Proxy.CastleProxyFactory..cctor()
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
