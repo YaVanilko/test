@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly=" MappingTest"
+                   namespace=" MappingTest.Entities">
+
+  <class name="Store" table="[Store]" lazy="true">
+
+    <id name="Id" column="id" type ="int" >
+
+      <generator class="native" />
+    </id>
+    
+    <property name="CityId" column="city_id"  type ="int" />
+    <property name="Address" column="address"  type ="string" />
+    <property name="ScheduleId" column="shedule_id"  type ="int" />
+
+    <many-to-one 
+      name="Schedules" 
+      column="shedule_id"
+      class ="Schedule" 
+
+      cascade="all" fetch="select"
+      />
+    
+    <bag name="Telephones" table="[store_phone]" cascade="save-update" lazy="false" fetch="select">
+      <key column="store_id" />
+      <many-to-many class="Telephone" column="phone_id"
+      not-found="ignore" 
+       />
+    </bag>
+    
+  </class>
+</hibernate-mapping>

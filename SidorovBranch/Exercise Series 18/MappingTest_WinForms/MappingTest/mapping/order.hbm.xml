@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly=" MappingTest"
+                   namespace=" MappingTest.Entities">
+
+  <class name="Order" table="[Order]" lazy="true">
+
+    <id name="Id" column="id" type ="int" >
+
+      <generator class="identity" />
+    </id>
+    <property name="Description" column="description"  type ="string" />
+
+    <property name="SenderId" column="sender_id"  type ="int" />
+    
+    <property name="RecipientId" column="recipient_id"  type ="int" />
+
+    <property name="SendingStoreId" column="sender_store_id"  type ="int" />
+    
+    <property name="ReceivingStoreId" column="recipient_store_id"  type ="int" />
+   
+    <property name="ShipingDate" column="shipping_date"  type ="DateTime" />
+    
+    <property name="ReceivingDate" column="recieving_date"   type ="DateTime"  />
+
+    <bag name="Packs" table="Pack" lazy="false" cascade="all-delete-orphan" inverse="false" fetch="select" >
+      <key>
+        <column name="Order_ID"/>
+      </key>
+      <one-to-many class="Pack" />
+    </bag>
+        
+    <many-to-one name="SendingStore" 
+                 column="sender_store_id" 
+                 cascade="all"
+                 class="Store" 
+                 fetch="select" 
+                 update="true" 
+                 insert="true" 
+                 not-found="ignore"/>
+
+  </class>
+</hibernate-mapping>
