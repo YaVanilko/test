@@ -43,22 +43,28 @@ namespace PersonsInfo
 
         private void toolStripButtonRefresh_Click(object sender, EventArgs e)
         {
-            foreach (ActionControl r in rf.GetInvocationList())
+            if (count != 0)
             {
-                if (r != null)
+                foreach (ActionControl r in rf.GetInvocationList())
                 {
-                    r();
+                    if (r != null)
+                    {
+                        r();
+                    }
                 }
             }
         }
 
         private void toolStripButtonAdd_Click(object sender, EventArgs e)
         {
-            foreach (ActionControl a in ac.GetInvocationList())
+            if (count != 0)
             {
-                if (a != null)
+                foreach (ActionControl a in ac.GetInvocationList())
                 {
-                    a();
+                    if (a != null)
+                    {
+                        a();
+                    }
                 }
             }
         }
@@ -119,6 +125,19 @@ namespace PersonsInfo
             foreach (var f in this.MdiChildren)
             {
                 f.Close();
+            }
+        }
+
+        private void FormPersonsZoo_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.Control && e.KeyCode.ToString() == "N")
+            {
+                newToolStripMenuItem_Click(sender, e);
+            }
+
+            if (e.Control && e.KeyCode.ToString() == "S")
+            {
+                toolStripButtonAdd_Click(sender, e);
             }
         }
 
