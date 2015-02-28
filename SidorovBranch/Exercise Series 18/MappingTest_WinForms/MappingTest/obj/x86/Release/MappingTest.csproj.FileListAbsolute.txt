@@ -1,0 +1,69 @@
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\obj\x86\Release\MappingTest.csprojResolveAssemblyReference.cache
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\bin\Release\MappingTest.exe
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\bin\Release\MappingTest.pdb
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\bin\Release\Iesi.Collections.dll
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\bin\Release\NHibernate.dll
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\bin\Release\Iesi.Collections.pdb
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\bin\Release\Iesi.Collections.xml
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\bin\Release\NHibernate.pdb
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\bin\Release\NHibernate.xml
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\obj\x86\Release\MappingTest.exe
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\obj\x86\Release\MappingTest.pdb
+C:\Users\omor\AppData\Local\Temporary Projects\MappingTest\bin\Release\hibernate.cfg.xml
+D:\VS2010\MappingTest\MappingTest\obj\x86\Release\MappingTest.exe
+D:\VS2010\MappingTest\MappingTest\obj\x86\Release\MappingTest.pdb
+D:\VS2010\MappingTest\MappingTest\obj\x86\Release\MappingTest.csprojResolveAssemblyReference.cache
+D:\VS2010\MappingTest\MappingTest\bin\Release\hibernate.cfg.xml
+D:\VS2010\MappingTest\MappingTest\bin\Release\MappingTest.exe
+D:\VS2010\MappingTest\MappingTest\bin\Release\MappingTest.pdb
+D:\VS2010\MappingTest\MappingTest\bin\Release\Iesi.Collections.dll
+D:\VS2010\MappingTest\MappingTest\bin\Release\NHibernate.dll
+D:\VS2010\MappingTest\MappingTest\bin\Release\Iesi.Collections.pdb
+D:\VS2010\MappingTest\MappingTest\bin\Release\Iesi.Collections.xml
+D:\VS2010\MappingTest\MappingTest\bin\Release\NHibernate.pdb
+D:\VS2010\MappingTest\MappingTest\bin\Release\NHibernate.xml
+C:\Users\Саня\Desktop\MappingTest\MappingTest\obj\x86\Release\MappingTest.exe
+C:\Users\Саня\Desktop\MappingTest\MappingTest\obj\x86\Release\MappingTest.pdb
+C:\Users\Саня\Desktop\MappingTest\MappingTest\bin\Release\hibernate.cfg.xml
+C:\Users\Саня\Desktop\MappingTest\MappingTest\bin\Release\MappingTest.exe
+C:\Users\Саня\Desktop\MappingTest\MappingTest\bin\Release\MappingTest.pdb
+C:\Users\Саня\Desktop\MappingTest\MappingTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\omor\Desktop\MappingTest\MappingTest\obj\x86\Release\MappingTest.exe
+C:\Users\omor\Desktop\MappingTest\MappingTest\obj\x86\Release\MappingTest.pdb
+C:\Users\omor\Desktop\MappingTest\MappingTest\bin\Release\hibernate.cfg.xml
+C:\Users\omor\Desktop\MappingTest\MappingTest\bin\Release\MappingTest.exe
+C:\Users\omor\Desktop\MappingTest\MappingTest\bin\Release\MappingTest.pdb
+C:\Users\omor\Desktop\MappingTest\MappingTest\obj\x86\Release\MappingTest.csprojResolveAssemblyReference.cache
+C:\Users\omor\Desktop\MappingTest\MappingTest\bin\Release\MappingTest.exe.config
+C:\Users\omor\Desktop\MappingTest\MappingTest\bin\Release\log4net.dll
+C:\Users\omor\Desktop\MappingTest\MappingTest\bin\Release\log4net.xml
+C:\Users\omor\Desktop\lecture\MappingTest\MappingTest\bin\Release\MappingTest.exe.config
+C:\Users\omor\Desktop\lecture\MappingTest\MappingTest\obj\x86\Release\MappingTest.exe
+C:\Users\omor\Desktop\lecture\MappingTest\MappingTest\obj\x86\Release\MappingTest.pdb
+C:\Users\omor\Desktop\lecture\MappingTest\MappingTest\bin\Release\hibernate.cfg.xml
+C:\Users\omor\Desktop\lecture\MappingTest\MappingTest\bin\Release\MappingTest.exe
+C:\Users\omor\Desktop\lecture\MappingTest\MappingTest\bin\Release\MappingTest.pdb
+C:\Users\omor\Desktop\lecture\MappingTest\MappingTest\bin\Release\log4net.dll
+C:\Users\omor\Desktop\lecture\MappingTest\MappingTest\bin\Release\log4net.xml
+C:\Users\omor\Desktop\lecture\MappingTest\MappingTest\obj\x86\Release\MappingTest.csprojResolveAssemblyReference.cache
+D:\lecture\MappingTest\MappingTest\bin\Release\MappingTest.exe.config
+D:\lecture\MappingTest\MappingTest\obj\x86\Release\MappingTest.exe
+D:\lecture\MappingTest\MappingTest\obj\x86\Release\MappingTest.pdb
+c:\Users\Home\Desktop\MappingTest\MappingTest\bin\Release\MappingTest.exe.config
+c:\Users\Home\Desktop\MappingTest\MappingTest\obj\x86\Release\MappingTest.exe
+c:\Users\Home\Desktop\MappingTest\MappingTest\obj\x86\Release\MappingTest.pdb
+c:\Users\Home\Desktop\MappingTest\MappingTest\bin\Release\hibernate.cfg.xml
+c:\Users\Home\Desktop\MappingTest\MappingTest\bin\Release\MappingTest.exe
+c:\Users\Home\Desktop\MappingTest\MappingTest\bin\Release\MappingTest.pdb
+c:\Users\Home\Desktop\MappingTest\MappingTest\bin\Release\log4net.xml
+c:\Users\Home\Desktop\MappingTest\MappingTest\obj\x86\Release\MappingTest.csprojResolveAssemblyReference.cache
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 18\MappingTest_WinForms\MappingTest\bin\Release\MappingTest.exe.config
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 18\MappingTest_WinForms\MappingTest\obj\x86\Release\MappingTest.exe
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 18\MappingTest_WinForms\MappingTest\obj\x86\Release\MappingTest.pdb
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 18\MappingTest_WinForms\MappingTest\bin\Release\hibernate.cfg.xml
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 18\MappingTest_WinForms\MappingTest\bin\Release\MappingTest.exe
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 18\MappingTest_WinForms\MappingTest\bin\Release\MappingTest.pdb
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 18\MappingTest_WinForms\MappingTest\bin\Release\log4net.xml
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 18\MappingTest_WinForms\MappingTest\obj\x86\Release\MappingTest.csprojResolveAssemblyReference.cache
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 18\MappingTest_WinForms\MappingTest\obj\x86\Release\MappingTest.OrderINFO.resources
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 18\MappingTest_WinForms\MappingTest\obj\x86\Release\MappingTest.csproj.GenerateResource.Cache

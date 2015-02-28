@@ -1,0 +1,5 @@
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\DiceGame\obj\x86\Debug\DiceGame.csprojResolveAssemblyReference.cache
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\DiceGame\obj\x86\Debug\DiceGame.exe
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\DiceGame\obj\x86\Debug\DiceGame.pdb

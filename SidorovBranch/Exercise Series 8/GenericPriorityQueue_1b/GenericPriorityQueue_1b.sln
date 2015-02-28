@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericPriorityQueue_1b", "GenericPriorityQueue_1b\GenericPriorityQueue_1b.csproj", "{DA2765EA-DFBC-4344-A324-1E729F299168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2765EA-DFBC-4344-A324-1E729F299168}.Debug|x86.ActiveCfg = Debug|x86
+		{DA2765EA-DFBC-4344-A324-1E729F299168}.Debug|x86.Build.0 = Debug|x86
+		{DA2765EA-DFBC-4344-A324-1E729F299168}.Release|x86.ActiveCfg = Release|x86
+		{DA2765EA-DFBC-4344-A324-1E729F299168}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

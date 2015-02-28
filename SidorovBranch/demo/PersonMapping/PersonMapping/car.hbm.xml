@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+           assembly="PersonMapping"
+           namespace="PersonMapping">
+  <class name="Car" table="[Car]" lazy="true">
+
+    <id name="Id" column="id" type ="int" >
+      <generator class="identity" />
+    </id>
+    
+    <property name="Description" column="description"  type ="string" />
+    <property name="PersonId" column="person_id" type ="int"/>
+
+  </class>
+</hibernate-mapping>

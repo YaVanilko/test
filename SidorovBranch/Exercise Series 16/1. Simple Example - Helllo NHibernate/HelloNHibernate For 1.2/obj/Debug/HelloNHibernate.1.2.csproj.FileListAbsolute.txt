@@ -1,0 +1,1 @@
+c:\Users\Home\Desktop\NHibernate\1. Simple Example - Helllo NHibernate\HelloNHibernate For 1.2\bin\Debug\HelloNHibernate.exe.config

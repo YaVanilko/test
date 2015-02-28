@@ -1,0 +1,9 @@
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\TestOfGame.dll
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\TestOfGame.pdb
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\DiceGame.exe
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\nunit.framework.dll
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\DiceGame.pdb
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\nunit.framework.xml
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\obj\Debug\TestOfGame.csprojResolveAssemblyReference.cache
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\obj\Debug\TestOfGame.dll
+e:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\obj\Debug\TestOfGame.pdb

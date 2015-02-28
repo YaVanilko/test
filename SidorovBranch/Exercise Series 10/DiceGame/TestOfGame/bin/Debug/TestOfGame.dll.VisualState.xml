@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]E:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\TestOfGame.dll</TopNode>
+  <SelectedNode>[0-1002]E:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\TestOfGame.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]E:\my_docs\ISD_courses\svnwc\branches\sidorov\Exercise Series 10\DiceGame\TestOfGame\bin\Debug\TestOfGame.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]TestOfGame" Expanded="true" />
+    <Node UniqueName="[0-1000]TestOfGame.MoqTest" Expanded="true" />
+  </Nodes>
+</VisualState>

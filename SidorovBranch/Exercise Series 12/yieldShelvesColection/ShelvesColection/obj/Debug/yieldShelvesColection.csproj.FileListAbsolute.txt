@@ -1,0 +1,12 @@
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\obj\Debug\yieldShelvesColection.csprojResolveAssemblyReference.cache
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\obj\Debug\ShelvesColection.exe
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\obj\Debug\ShelvesColection.pdb
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.exe.config
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.exe
+c:\Users\Home\Desktop\Projects\ShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.pdb
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.exe.config
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\ShelvesColection\obj\Debug\ShelvesColection.exe
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\ShelvesColection\obj\Debug\ShelvesColection.pdb
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\ShelvesColection\obj\Debug\yieldShelvesColection.csprojResolveAssemblyReference.cache
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.exe
+c:\Users\Home\Documents\GitHub\test\SidorovBranch\Exercise Series 12\yieldShelvesColection\ShelvesColection\bin\Debug\ShelvesColection.pdb

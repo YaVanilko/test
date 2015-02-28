@@ -1,0 +1,12 @@
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\bin\Debug\PersonsInfo.exe.config
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\bin\Debug\PersonsInfo.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\bin\Debug\PersonsInfo.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\obj\Debug\PersonsInfo.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\obj\Debug\PersonsInfo.ChildWindow.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\obj\Debug\PersonsInfo.FormPersonsZoo.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\obj\Debug\PersonsInfo.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\obj\Debug\PersonsInfo.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\obj\Debug\PersonsInfo.exe.licenses
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\obj\Debug\PersonsInfo.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\obj\Debug\PersonsInfo.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PersonsInfo\PersonsInfo\obj\Debug\PersonsInfo.AboutBox.resources
