@@ -2,6 +2,14 @@ added demo test
 dasafhiafsdafs
 guhghjgb
 
+
 bla bla bla
 
 some changes
+
+New mega code
+
+int method()
+{
+   return 5;
+}
