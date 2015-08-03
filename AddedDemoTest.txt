@@ -13,3 +13,8 @@ int method()
 {
    return 5;
 }
+
+int main ()
+{
+	return method();
+}
