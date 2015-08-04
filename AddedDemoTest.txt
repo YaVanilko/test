@@ -11,7 +11,7 @@ New mega code
 
 int method()
 {
-   return 7;
+   return 25;
 }
 
 int main ()
