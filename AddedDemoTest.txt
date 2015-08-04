@@ -8,6 +8,10 @@ bla bla bla
 some changes
 
 New mega code
+int method2()
+{
+	return method();
+}
 
 int method()
 {
@@ -16,5 +20,5 @@ int method()
 
 int main ()
 {
-	return method();
+	return method2();
 }
