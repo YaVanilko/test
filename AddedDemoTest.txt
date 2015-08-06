@@ -15,7 +15,7 @@ int method2()
 
 int method()
 {
-   return 25;
+   
 }
 
 int main ()
