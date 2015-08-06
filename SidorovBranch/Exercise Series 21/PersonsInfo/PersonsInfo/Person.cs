@@ -19,6 +19,5 @@ namespace PersonsInfo
         public string LastName { get; set; }
         public string MiddleName { get; set; }
         public string Age { get; set; }
-        public string Login { get; set; }
     }
 }
