@@ -15,10 +15,12 @@ int method2()
 
 int method()
 {
-   return 25;
+   return 37;
 }
 
 int main ()
 {
 	return method2();
+Console.Writeline("Hello");
+
 }
