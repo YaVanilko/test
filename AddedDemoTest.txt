@@ -21,4 +21,5 @@ int method()
 int main ()
 {
 	return method2();
-}
+}\
+ahdfjk;aldfhaldfasd
